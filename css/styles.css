@@ -1,0 +1,303 @@
+/* Section One styling starts here */
+
+.bk-img{
+    background-image: url(../images/wedding\ pic\ 1.JPG);
+    background-size: cover;
+    /* height: 700px; */
+}
+.s1{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.s1 h2{
+    font-size: 54px;
+    font-family: Quicksand;
+    color:#fff;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+.s1 p{
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    font-family: Quicksand, Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 20px;
+}
+
+.bk1-form input {
+    padding: 30px;
+    font-size: 15px ;
+    font-weight: 400;
+    font-family: Quicksand, Verdana, Geneva, Tahoma, sans-serif;
+    background: #fff; 
+}
+/* 
+.bk1-form select{
+    padding: 30px;
+    font-size: 15px ;
+    font-weight: 400;
+    background: #fff; 
+    color: #000 !important;
+    outline: none;
+}
+
+.bk1-form select option{
+    color: black !important;
+} */
+/* 
+.bk1-form select option {
+    color: black!important;
+} */
+
+.bk1-look select{
+    height: 62px;
+    font-family: Quicksand, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.bk1-form .bk1-first {
+    border-radius: 100px  0px 0px 100px;
+}
+
+.bk1-x1 .bk1-search {
+    border-radius: 0px 100px 100px 0px;
+    background-color: #4db7fe !important;
+    color: #fff !important;
+    display: block !important;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    outline: none;
+    font-size: 15px;
+    font-family: Quicksand, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bk1-last {
+    padding-right: 30px !important;
+}
+
+.bk1-x1 input {
+    color: #fff!important;
+}
+.bk1-form {
+    border: 6px solid rgba(255, 255, 255, 0.15);
+    border-radius: 35px;
+    
+    max-width: 90%;
+    margin: auto!important;
+}
+.form-group .x1{
+    box-shadow: none!important;
+    outline: none!important;
+}
+
+.form-group input:focus{
+    box-shadow: none!important;
+    outline: none!important;
+}
+
+.bk1-look {
+    padding-right: 0px!important;
+    padding-left: 0px!important;
+   
+}
+
+.bk1-look .form-group {
+    margin-bottom: 0px!important;
+}
+.horizontal{
+    border-color: #c8c8c8;
+    border-style: solid;
+    width: 55px;
+    margin-top: 30px;
+}
+.btn-wed {
+    background-color:  #4db7fe;
+    margin-top: 20px;
+}
+.box{
+    display: inline-block;
+    padding: 20px 0 12px;
+    border-radius: 6px;
+    color: #fff;
+    background-color: #4db7fe;
+    margin-top: 15px;
+    box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.2);    
+
+}
+#line{
+    text-decoration: none;
+}
+.box:hover{
+    background-color: #2f3b59;
+    cursor: pointer;
+}
+.box h2{
+font-size: 13px;
+font-family: Quicksand;
+padding-top: 10px;
+text-align: center;
+padding-bottom: 1.5px;
+margin-right: 12px;
+margin-left: 12px;
+font-weight: normal;
+}
+.box .fa-futbol-o{
+    color: #fff;
+}
+.scroll-link{
+    background-color: #4db7fe;
+    text-transform: uppercase;
+    font-family: Quicksand;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    padding: 20px;
+    border-radius: 6px;
+   margin: 45px auto 0;  
+   min-width: 160px;
+   text-align: center;
+
+}
+.scroll-link:hover{
+    background-color: #fff;
+    color: #2F3B59;
+}
+#line-2{
+    text-decoration: none;
+}
+/* Section One styling ends here */
+
+/* Navbar Section styling starts here */
+.bk-blue{
+    background-color: #2F3B59;
+}
+.nav-1{
+    padding: 8px;
+}
+.logo{
+    width: 148px;
+}
+.vl {
+    border-left: 0.5px solid #c8c8c8;
+    height: 30px;
+  }
+  .fa-search{
+      color: #4db7fe;
+      padding: 12px;
+
+  }
+.search{
+    color: #fff;
+    font-size: 12px;
+    font-family: Quicksand, Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: 600;
+    cursor: pointer;
+}
+.nav-link{
+    color: #fff !important;
+    font-size:12px ;
+    font-family: Quicksand, Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: 600;
+    /* text-align: left; */
+}
+.nav-link:hover{
+    color:#4db7fe !important ;
+}
+.fa-shopping-bag{
+    color: #fff;
+    padding-right: 10px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+    /* width: 0.5px; */
+}
+.fa-shopping-bag:hover{
+    color:#4db7fe !important ;
+}
+/* .cart-count{
+    color:#4db7fe !important ;
+    border: none;
+    outline: 0;
+    margin: 0;
+    text-decoration: none !important;
+
+} */
+.fa-sign-in{
+color: #fff;
+padding-right: 10px;
+margin-top: 10px;
+margin-left: 20px;
+/* width: 0.5px; */
+}
+.fa-sign-in:hover{
+    color:#4db7fe !important ;
+}
+.sign{
+    color: #fff !important;
+    font-size:12px ;
+    font-family: Quicksand, Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: 600;
+    margin-top: 50px;
+    padding-right: 10px;
+}
+.sign:hover{
+    color:#4db7fe !important ;
+    cursor: pointer;
+}
+#list{
+    float: right;
+    padding: 13px 32px;
+    position: relative;
+    top: 20px;
+    border-radius: 30px;
+    color: #fff;
+    font-family: Quicksand, Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 10px;
+    font-weight: 800;
+    text-transform: uppercase;
+    background-color: #4db7fe;
+    box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.2);    
+    margin-top: -35px;
+    margin-left: 15px;
+    text-decoration: none;
+}
+ /* display: inline-block;
+padding: 20px;
+border-radius: 50px;
+color: #fff;
+background-color: #4db7fe;
+margin-top: 15px;
+margin-left: 15px;
+box-shadow: 0px 0px 0px 5px rgba(255, 255, 255, 0.2);    
+text-decoration: none;
+font-family: Quicksand, Verdana, Geneva, Tahoma, sans-serif ;
+font-size: 10px;
+text-transform: uppercase;
+font-weight: 600;
+text-align: right; */
+
+
+/* .btn-list{
+    background-color:  #4db7fe !important;
+    margin: 10px ;
+    padding: auto;
+    /* max-width: 50px; */
+    /* border-radius: 20px; */
+/* Navbar Section styling ends here */
+
+/* Media query starts here */
+@media (max-width: 768px){
+    .bk1-form .bk1-first{
+    border-radius: 8px !important;
+    }
+.bk1-x1 .bk1-search {
+    border-radius: 8px !important
+}
+/* .bk1-form{
+    border-radius: 8px !important;
+} */
+}
+/* Media query ends here */
